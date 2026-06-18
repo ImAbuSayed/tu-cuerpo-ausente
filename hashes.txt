@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu cuerpo ausente
+
+This log tracks the cryptographic history and versioning for the song **Tu cuerpo ausente** (tu-cuerpo-ausente).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T21:34:47.062593 | `v1` | `30a8767f5ec2024fc3619750a257d9e9982bd0c09a74dfd70aef2fb72f0ec809` | `30a8767f5ec2024fc3619750a257d9e9982bd0c09a74dfd70aef2fb72f0ec809` | `2026-06-18_tu-cuerpo-ausente-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
