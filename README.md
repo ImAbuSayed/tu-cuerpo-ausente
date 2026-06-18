@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-ausente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu cuerpo ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-ausente/) |
+| **Get License** | [Secure Licensing Rights for Tu cuerpo ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-ausente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,8 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 1f1323a3f00fd672539e8bf47fcfabb7df7ab99f
+> Subproject commit 5d9aecdb6ec071638645b83bf3468d93030fc7a9
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
